@@ -1,6 +1,16 @@
 package com.facturation.www;
 
 public class Main {
+    /*
+    KALEND A KABEY ROSNY L2 SI
+    KAKUDJI MPUKA DJO L2 SI
+    SANGWA APENDEKI PEGGY L2 SI
+    KAFINDO KABONWA SCHOLASTIQUE L2 MSI
+    MUSHIYA TSHIANI BENEDICTE L2 MSI
+    TSHILOMBO TSHIKA RUTH L2 MSI
+    MBUYU FATUMA RUTH L2 MSI
+    MBWEY MBENGEL CHRISTVIE L2 SI
+    */
     public static void main(String[] args) {
         Detail.Ligne ligne= new Detail.Ligne();
         Produit<String>prod1=new Produit<>();
