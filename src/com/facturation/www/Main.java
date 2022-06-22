@@ -28,12 +28,5 @@ public class Main {
         client1.setNumero("1");
         client1.setNom("Kalend");
         client1.setPrenom("rosny");
-        Personne.Adresse add=new Personne.Adresse(){
-            @Override
-            public void setAvenue(String avenue) {
-                super.setAvenue("123");
-            }
-        };
-        System.out.println(prod1.getPrix());
     }
 }
