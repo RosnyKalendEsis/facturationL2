@@ -8,7 +8,6 @@ public class Main {
     KAFINDO KABONWA SCHOLASTIQUE L2 MSI
     MUSHIYA TSHIANI BENEDICTE L2 MSI
     TSHILOMBO TSHIKA RUTH L2 MSI
-    MBUYU FATUMA RUTH L2 MSI
     MBWEY MBENGEL CHRISTVIE L2 SI
     */
     public static void main(String[] args) {
